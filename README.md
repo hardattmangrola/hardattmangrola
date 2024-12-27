@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+<h1 align="center"> Hi there, I'm <a href="https://www.linkedin.com/in/hardattsinh-mangrola-a3a877284/">Hardatt</a> </h1>
 <!--
 **hardattmangrola/hardattmangrola** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
