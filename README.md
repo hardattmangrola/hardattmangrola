@@ -1,30 +1,21 @@
-## Hi there 👋
-<h1 align="center"> Hi there, I'm <a href="https://www.linkedin.com/in/hardattsinh-mangrola-a3a877284/">Hardatt</a> </h1>
-<!--
-**hardattmangrola/hardattmangrola** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there, I'm Hardatt! 👋
 
-Here are some ideas to get you started:
+## 🚀 About Me
+I am a passionate **Computer Science student at Nirma University** with interests in Machine Learning, AI, and Data Structure & Algorthms. I enjoy working on innovative projects and exploring new technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<details>	
- <summary><b>GSSOC(24) Badges 🪶</b></summary><br>
-<div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
-<img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/2.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/3.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/4.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/5.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/6.png" width="105px" height="105px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/7.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/8.png" width="100px" height="100px" />
-</div>
-</details>
+
+## 📚 Skills
+- **Programming:** Python, Java, C++,C
+- **Machine Learning & AI:** Scikit-Learn, TensorFlow, PyTorch
+- **Web Development:** HTML, CSS, JavaScript, Flask
+- **Databases:** OracleSQl, MySQL
+- **Tools:** Scilab,Matlab,Git,Latex, Linux
+
+## 📫 Let's Connect!
+- **LinkedIn:** [linkedin.com/in/hardatt](https://www.linkedin.com/in/hardattsinh-mangrola-a3a877284/)
+- **Codeforces:** [github.com/hardatt](https://codeforces.com/profile/hardatt)
+  **LeetCode:** [github.com/hardatt](https://leetcode.com/u/hardatt088/)
+- **Email:** hardattmangrola55@gmail.com
+
+⚡ _“Code, innovate, and secure the digital world!”_
+
