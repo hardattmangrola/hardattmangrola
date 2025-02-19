@@ -13,8 +13,8 @@ I am a passionate **Computer Science student at Nirma University** with interest
 
 ## 📫 Let's Connect!
 - **LinkedIn:** [linkedin.com/in/hardatt](https://www.linkedin.com/in/hardattsinh-mangrola-a3a877284/)
-- **Codeforces:** [github.com/hardatt](https://codeforces.com/profile/hardatt)
-  **LeetCode:** [github.com/hardatt](https://leetcode.com/u/hardatt088/)
+- **Codeforces:** [codeforces.com/hardatt](https://codeforces.com/profile/hardatt)
+- **LeetCode:** [leetcode.com/hardatt](https://leetcode.com/u/hardatt088/)
 - **Email:** hardattmangrola55@gmail.com
 
 ⚡ _“Code, innovate, and secure the digital world!”_
