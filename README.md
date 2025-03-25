@@ -6,7 +6,7 @@ I am a passionate **Computer Science student at Nirma University** with interest
 
 ## 📚 Skills
 - **Programming:** Python, Java, C++,C
-- **Machine Learning & AI:** Scikit-Learn, TensorFlow, PyTorch
+- **Machine Learning & AI:** Scikit-Learn
 - **Web Development:** HTML, CSS, JavaScript, Flask
 - **Databases:** OracleSQl, MySQL
 - **Tools:** Scilab,Matlab,Git,Latex, Linux
