@@ -1,7 +1,7 @@
 # Hi there, I'm Hardatt! 👋
 
 ## 🚀 About Me
-I am a passionate **Computer Science student at Nirma University** with interests in Machine Learning, AI, and Data Structure & Algorthms. I enjoy working on innovative projects and exploring new technologies.
+I am a passionate **Computer Science student at Nirma University** with interests in Web Development, Machine Learning, AI, and Data Structure & Algorithms. I enjoy working on innovative projects and exploring new technologies.
 
 
 ## 📚 Skills
