@@ -1,7 +1,5 @@
 <!-- Banner / Header -->
 <h1 align="center">Hi 👋, I'm Hardatt</h1>
-<h3 align="center"> A Full Stack Web Developer 🚀</h3>
-
 <!-- Typing Effect -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&width=435&lines=Full+Stack+Web+Developer;AI+%26+Machine+Learning+Explorer;Open+Source+Contributor;Always+Learning+New+Things" alt="Typing SVG" />
