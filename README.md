@@ -6,7 +6,7 @@
 </p>
 
 ---
-![Profile Views](https://img.shields.io/badge/dynamic/json?color=brightgreen&label=Profile%20Views&query=value&url=https://api.countapi.xyz/hit/YOUR_USERNAME/visits)
+![Profile Views](https://komarev.com/ghpvc/?username=hardattmangrola&color=blue&style=flat)
 
 
 ### 📫 How to reach me
