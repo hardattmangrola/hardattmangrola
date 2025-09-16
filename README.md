@@ -6,7 +6,8 @@
 </p>
 
 ---
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blue&style=flat)
+![Profile Views](https://img.shields.io/badge/dynamic/json?color=brightgreen&label=Profile%20Views&query=value&url=https://api.countapi.xyz/hit/YOUR_USERNAME/visits)
+
 
 ### 📫 How to reach me
 - Email: **hardattmangrola55@gmail.com**  
