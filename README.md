@@ -7,11 +7,8 @@
 </p>
 
 <!-- 🎮 Mario Banner -->
-<p align="center">
-  <img 
-    src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" 
-    style="width:100%; max-height:200px; object-fit:cover;" 
-  />
+<p>
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500" />
 </p>
 
 <br>
@@ -64,9 +61,12 @@
 ---
 
 ## 📈 Contribution Graph
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hardattmangrola&theme=react-dark" alt="activity graph"/>
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hardattmangrola/hardattmangrola/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hardattmangrola/hardattmangrola/output/pacman-contribution-graph.svg">
+  <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/hardattmangrola/hardattmangrola/output/pacman-contribution-graph.svg">
+</picture>
+
 ---
 
 ## ⚡ Fun Fact  
