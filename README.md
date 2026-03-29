@@ -6,8 +6,9 @@
 </p>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500" />
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%" />
 </p>
+
 ---
 ![Profile Views](https://komarev.com/ghpvc/?username=hardattmangrola&color=blue&style=flat)
 
@@ -29,7 +30,7 @@
 
 ### 🛠️ Languages and Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,mysql,java,cpp,python,pytorch,sklearn,opencv,tailwind,bootstrap,git,github" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,js,ts,python,react,nodejs,express,nextjs,pytorch,opencv,aws,gcp,docker,git,github,postman,figma,mysql,postgres,mongodb,sqlite&perline=8" />
 </p>
 
 ---
