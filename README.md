@@ -6,9 +6,11 @@
 </p>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%" />
+  <img 
+    src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" 
+    style="width:100%; max-height:350px; object-fit:cover;" 
+  />
 </p>
-
 ---
 ![Profile Views](https://komarev.com/ghpvc/?username=hardattmangrola&color=blue&style=flat)
 
@@ -29,19 +31,16 @@
 ---
 
 ### 🛠️ Languages and Tools
-<p align="center">
+<p>
   <img src="https://skillicons.dev/icons?i=c,cpp,java,js,ts,python,react,nodejs,express,nextjs,pytorch,opencv,aws,gcp,docker,git,github,postman,figma,mysql,postgres,mongodb,sqlite&perline=8" />
-</p>
+</p>>
 
 ---
 
 ###  GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hardattmangrola&show_icons=true&theme=radical" alt="stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hardattmangrola&theme=radical" alt="streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hardattmangrola&layout=compact&theme=radical" alt="langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=hardattmangrola&show_icons=true&theme=radical" />
 </p>
-
 ---
 
 ### 🏆 Achievements
@@ -52,11 +51,13 @@
 ---
 
 ### 📈 Contribution Graph
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/pacman-contribution-graph.svg">
-</picture>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hardattmangrola/hardattmangrola/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hardattmangrola/hardattmangrola/output/pacman-contribution-graph.svg">
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/hardattmangrola/hardattmangrola/output/pacman-contribution-graph.svg">
+  </picture>
+</p>
 ---
 
 ### ⚡ Fun Fact  
