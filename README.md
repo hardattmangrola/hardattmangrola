@@ -10,7 +10,7 @@
 <p align="center">
   <img 
     src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" 
-    style="width:100%; max-height:380px; object-fit:cover;" 
+    style="width:100%; max-height:200px; object-fit:cover;" 
   />
 </p>
 
@@ -19,9 +19,7 @@
 ---
 
 <!-- 👀 Profile Views -->
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=hardattmangrola&color=blue&style=flat" />
-</p>
+![Profile Views](https://komarev.com/ghpvc/?username=hardattmangrola&color=blue&style=flat)
 
 ---
 
@@ -54,33 +52,21 @@
 ---
 
 ## 📊 GitHub Stats
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=hardattmangrola&show_icons=true&theme=radical" 
-    width="500"
-  />
-</p>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=hardattmangrola&theme=radical" alt="streak" />
 
 ---
 
 ## 🏆 Achievements
 <p align="center">
-  <img 
-    src="https://github-profile-trophy.vercel.app/?username=hardattmangrola&theme=discord&column=4&margin-w=10&margin-h=10" 
-  />
+  <img src="https://github-profile-trophy.vercel.app/?username=hardattmangrola&theme=discord&column=7" />
 </p>
 
 ---
 
 ## 📈 Contribution Graph
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hardattmangrola/hardattmangrola/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hardattmangrola/hardattmangrola/output/pacman-contribution-graph.svg">
-    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/hardattmangrola/hardattmangrola/output/pacman-contribution-graph.svg">
-  </picture>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hardattmangrola&theme=react-dark" alt="activity graph"/>
 </p>
-
 ---
 
 ## ⚡ Fun Fact  
