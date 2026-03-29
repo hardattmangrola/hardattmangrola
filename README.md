@@ -1,56 +1,78 @@
-<!-- Banner / Header -->
+<!-- 👋 Header -->
 <h1 align="center">Hi 👋, I'm Hardatt</h1>
-<!-- Typing Effect -->
+
+<!-- 🔥 Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&width=435&lines=Full+Stack+Web+Developer;AI+%26+Machine+Learning+Explorer;Always+Learning+New+Things" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&width=435&lines=Full+Stack+Web+Developer;AI+%26+Machine+Learning+Explorer;Always+Learning+New+Things" />
 </p>
 
+<!-- 🎮 Mario Banner -->
 <p align="center">
   <img 
     src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" 
-    style="width:100%; max-height:350px; object-fit:cover;" 
+    style="width:100%; max-height:380px; object-fit:cover;" 
   />
 </p>
+
+<br>
+
 ---
-![Profile Views](https://komarev.com/ghpvc/?username=hardattmangrola&color=blue&style=flat)
 
+<!-- 👀 Profile Views -->
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=hardattmangrola&color=blue&style=flat" />
+</p>
 
-### 📫 How to reach me
+---
+
+## 📫 How to reach me
 - Email: **hardattmangrola55@gmail.com**  
 - Portfolio: https://hardatt-portfolio.vercel.app/
 
 ---
 
-### 🌐 Connect with me
+## 🌐 Connect with me
 <p align="left">
-  <a href="https://www.linkedin.com/in/hardattsinhmangrola/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://x.com/wake_n_code" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
-  <a href="mailto:hardattmangrola55@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/hardattsinhmangrola/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://x.com/wake_n_code" target="_blank">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
+  </a>
+  <a href="mailto:hardattmangrola55@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 </p>
 
 ---
 
-### 🛠️ Languages and Tools
+## 🛠️ Languages and Tools
 <p>
   <img src="https://skillicons.dev/icons?i=c,cpp,java,js,ts,python,react,nodejs,express,nextjs,pytorch,opencv,aws,gcp,docker,git,github,postman,figma,mysql,postgres,mongodb,sqlite&perline=8" />
-</p>>
-
----
-
-###  GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hardattmangrola&show_icons=true&theme=radical" />
-</p>
----
-
-### 🏆 Achievements
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hardattmangrola&theme=discord&column=7" />
 </p>
 
 ---
 
-### 📈 Contribution Graph
+## 📊 GitHub Stats
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=hardattmangrola&show_icons=true&theme=radical" 
+    width="500"
+  />
+</p>
+
+---
+
+## 🏆 Achievements
+<p align="center">
+  <img 
+    src="https://github-profile-trophy.vercel.app/?username=hardattmangrola&theme=discord&column=4&margin-w=10&margin-h=10" 
+  />
+</p>
+
+---
+
+## 📈 Contribution Graph
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hardattmangrola/hardattmangrola/output/pacman-contribution-graph-dark.svg">
@@ -58,7 +80,8 @@
     <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/hardattmangrola/hardattmangrola/output/pacman-contribution-graph.svg">
   </picture>
 </p>
+
 ---
 
-### ⚡ Fun Fact  
+## ⚡ Fun Fact  
 🦄 I code best in dark mode and love building mysterious, creative projects!
