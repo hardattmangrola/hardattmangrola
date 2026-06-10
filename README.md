@@ -15,12 +15,12 @@
 <pre>
 {
   "education": "B.Tech CSE @ Nirma University",
-  "year": 3,
+  "year": 4,
   "minor": "Adaptive AI",
   "focus": ["AI/ML", "Backend", "Cybersecurity"],
   "learning": ["System Design", "Cloud", "Kubernetes"],
   "building": ["AI Security Projects", "Open Source"],
-  "goal": "SDE Internship 2027"
+  "seeking": "internship opportunities"
 }
 </pre>
 
@@ -32,41 +32,30 @@
 
 </tr>
 </table>
-```
+
 
 <!-- 👀 Profile Views -->
 ![Profile Views](https://komarev.com/ghpvc/?username=hardattmangrola&color=blue&style=flat)
 
 
 ---
-##  Tech Stack
+##  Technical Skills
 
-### Languages
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-
-### Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-
-### Backend
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
-
-### AI / ML
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-
-### Cloud & DevOps
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=FF9900)
 ![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-
-### Databases
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
