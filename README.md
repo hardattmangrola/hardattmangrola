@@ -5,31 +5,10 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&width=435&lines=Full+Stack+Web+Developer;AI+%26+Machine+Learning+Explorer;Always+Learning+New+Things" />
 </p>
----
 
 <!-- 👀 Profile Views -->
 ![Profile Views](https://komarev.com/ghpvc/?username=hardattmangrola&color=blue&style=flat)
 
----
-
-## 📫 How to reach me
-- Email: **hardattmangrola55@gmail.com**  
-- Portfolio: https://hardatt-portfolio.vercel.app/
-
----
-
-## 🌐 Connect with me
-<p align="left">
-  <a href="https://www.linkedin.com/in/hardattsinhmangrola/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://x.com/wake_n_code" target="_blank">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
-  </a>
-  <a href="mailto:hardattmangrola55@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
 
 ---
 ## 🛠 Tech Stack
@@ -69,12 +48,24 @@
 
 ---
 
-## 🚀 Open Source Impact
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=hardattmangrola&theme=github_dark" width="32.5%">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hardattmangrola&theme=github_dark" width="32.5%">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hardattmangrola&theme=github_dark" width="32.5%">
+
+</div>
+
+<details>
+<summary><b>Detailed GitHub Analytics</b></summary>
+
+<br>
 
 <p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=hardattmangrola&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hardattmangrola&theme=github_dark">
 </p>
 
+</details>
 ---
 
 ## 📈 Contribution Graph
