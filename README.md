@@ -6,21 +6,32 @@
 </p>
 
 
-Or a more developer-themed version:
+<table>
+<tr>
+<td width="60%" valign="top">
 
-##  developer.json
+<h2> developer.json</h2>
 
-```json
+<pre>
 {
   "education": "B.Tech CSE @ Nirma University",
-  "year": 4,
+  "year": 3,
   "minor": "Adaptive AI",
-  "focus": ["AI", "Backend", "Security"],
-  "learning": ["System Design", "Dev Ops", "LLMs"],
-  "building": ["Open Source Projects"],
-  "seeking": "Internship Opportunities",
-  "fun_fact": "I turn coffee into code."
+  "focus": ["AI/ML", "Backend", "Cybersecurity"],
+  "learning": ["System Design", "Cloud", "Kubernetes"],
+  "building": ["AI Security Projects", "Open Source"],
+  "goal": "SDE Internship 2027"
 }
+</pre>
+
+</td>
+
+<td width="40%" align="center">
+<img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="280"/>
+</td>
+
+</tr>
+</table>
 ```
 
 <!-- 👀 Profile Views -->
