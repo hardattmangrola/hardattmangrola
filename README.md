@@ -17,9 +17,8 @@
   "education": "B.Tech CSE @ Nirma University",
   "year": 4,
   "minor": "Adaptive AI",
-  "focus": ["AI/ML", "Backend", "Cybersecurity"],
+  "focus": ["AI/ML", "Backend"],
   "learning": ["System Design", "Cloud", "Kubernetes"],
-  "building": ["AI Security Projects", "Open Source"],
   "seeking": "internship opportunities"
 }
 </pre>
@@ -85,7 +84,6 @@
 </p>
 
 </details>
----
 
 ##  Contribution Graph
 <picture>
